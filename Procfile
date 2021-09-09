@@ -1,1 +1,1 @@
-web: gunicorn nlp_project.wsgi --log-file -
+web: gunicorn customer_driver_project.wsgi --log-file -
